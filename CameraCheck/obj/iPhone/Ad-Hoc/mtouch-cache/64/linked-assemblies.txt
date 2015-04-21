@@ -1,0 +1,9 @@
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/CameraCheck.exe
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/mscorlib.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/System.Core.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/Mono.Data.Sqlite.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/System.Data.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/System.Xml.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/System.dll
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache/64/Link/System.Transactions.dll

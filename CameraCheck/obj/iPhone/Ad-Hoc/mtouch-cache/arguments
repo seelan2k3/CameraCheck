@@ -1,0 +1,33 @@
+# Version: 8.8.1.9 (7e1f69e)
+# [first argument, ignore] # /Users/suriyaj/Projects/CameraCheck/CameraCheck/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.1.9/bin/mtouch-64 \
+	--cache \
+	/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/mtouch-cache \
+	--dev \
+	/Users/suriyaj/Projects/CameraCheck/CameraCheck/bin/iPhone/Ad-Hoc/CameraCheck.app \
+	--executable \
+	CameraCheck \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.2 \
+	--targetver \
+	8.1 \
+	--new-refcount \
+	--abi=armv7,arm64 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Mono.Data.Sqlite.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Data.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/suriyaj/Projects/CameraCheck/CameraCheck/bin/iPhone/Ad-Hoc//CameraCheck.exe \

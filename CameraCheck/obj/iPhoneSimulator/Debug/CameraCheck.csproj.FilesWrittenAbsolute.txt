@@ -1,0 +1,15 @@
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/ibtool/LoadPage_iPhone.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/ibtool/LoadPage_iPad.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/ibtool/ViewInspections_iPhone.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/ibtool/ViewInspections_iPad.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/ibtool/PnxCodedLookUp.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/img_notinspected.png
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/img_lookup.png
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/bin/iPhoneSimulator/Debug/CameraCheck.exe.mdb
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/bin/iPhoneSimulator/Debug/CameraCheck.exe
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/CameraCheck.exe
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhoneSimulator/Debug/CameraCheck.exe.mdb

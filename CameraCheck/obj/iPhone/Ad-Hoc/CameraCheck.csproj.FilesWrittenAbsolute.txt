@@ -1,0 +1,16 @@
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/ibtool/LaunchScreen.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/ibtool/LoadPage_iPhone.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/ibtool/LoadPage_iPad.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/actool/partial-info.plist
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/actool/asset-manifest.plist
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/bin/iPhone/Ad-Hoc/CameraCheck.exe.mdb
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/bin/iPhone/Ad-Hoc/CameraCheck.exe
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/CameraCheck.exe
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/CameraCheck.exe.mdb
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/ibtool/ViewInspections_iPhone.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/ibtool/ViewInspections_iPad.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/ibtool/PnxCodedLookUp.nib
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/img_notinspected.png
+/Users/suriyaj/Projects/CameraCheck/CameraCheck/obj/iPhone/Ad-Hoc/img_lookup.png
